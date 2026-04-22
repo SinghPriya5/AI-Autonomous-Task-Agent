@@ -108,7 +108,7 @@ OPENROUTER_API_KEY=your_api_key_here
 *(Add your screenshot here)*
 
 ```
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/SinghPriya5/AI-Autonomous-Task-Agent/blob/main/ss.png)
 ```
 
 ---
