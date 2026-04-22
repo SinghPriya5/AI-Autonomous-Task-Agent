@@ -102,15 +102,9 @@ OPENROUTER_API_KEY=your_api_key_here
 * Set reminder for meeting
 
 ---
-
 ## 📸 Demo
 
-*(Add your screenshot here)*
-
-```
-![App Screenshot](https://github.com/SinghPriya5/AI-Autonomous-Task-Agent/blob/main/ss.png)
-```
-
+![App Screenshot](https://raw.githubusercontent.com/SinghPriya5/AI-Autonomous-Task-Agent/main/ss.png)
 ---
 
 ## ⚠️ Limitations
